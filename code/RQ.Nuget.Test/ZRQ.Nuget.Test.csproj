@@ -9,7 +9,7 @@
   <PropertyGroup>
     <PackageId>ZRQ.Nuget.Test</PackageId>
     <Version>1.5.0-alpha</Version>
-    <Authors>RQ.Nuget.Test</Authors>
+    <Authors>ZRQ.Nuget</Authors>
     <Company>HongWa</Company>
     <Description>测试package</Description>
   </PropertyGroup>
