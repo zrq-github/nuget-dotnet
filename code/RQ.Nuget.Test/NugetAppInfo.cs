@@ -8,6 +8,6 @@ namespace ZRQ.Nuget.Test
 {
     internal class NugetAppInfo
     {
-        public static readonly string NugetAppVersion = "1.0.0";
+        public static readonly string NugetAppVersion = "1.0.0-revit";
     }
 }
