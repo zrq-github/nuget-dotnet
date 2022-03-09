@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ZRQ.Nuget.Test
+namespace ConsoleApp1
 {
-    public class NugetAppInfo
+    internal class Program
     {
-        public static readonly string NugetAppVersion = "1.0.1";
+        static void Main(string[] args)
+        {
+        }
     }
 }
